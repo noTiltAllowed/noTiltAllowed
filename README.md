@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm currently building practical analytics projects focused on:
+I'm building practical analytics projects focused on:
 
 - SQL data analysis
 - Power BI dashboards
@@ -24,7 +24,7 @@ My goal is to develop real-world business analytics skills through hands-on proj
 - **SQL**
 - **Power BI**
 - **Excel**
-- **Python** *(learning)*
+- **Python** 
 - Data Cleaning
 - Data Visualization
 - Business Analytics
