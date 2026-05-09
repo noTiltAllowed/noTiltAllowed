@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Armen 👋
 
-<!--
-**noTiltAllowed/noTiltAllowed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst
+📍 Based in Tokyo, Japan
+🛠 Former Dell Field Technician transitioning into Data Analytics
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm currently building practical analytics projects focused on:
+
+- SQL data analysis
+- Power BI dashboards
+- Excel-based reporting
+- Data cleaning and visualization
+
+My goal is to develop real-world business analytics skills through hands-on projects using public datasets.
+
+---
+
+## 🧰 Tools & Skills
+
+- **SQL**
+- **Power BI**
+- **Excel**
+- **Python** *(learning)*
+- Data Cleaning
+- Data Visualization
+- Business Analytics
+
+---
+
+## 📂 Featured Projects
+
+### ✈️ [US International Air Travel Analysis (2025)](https://github.com/noTiltAllowed/International-Air-Travel-2025)
+
+Analysis of international travel trends using **BTS (Bureau of Transportation Statistics)** data.
+
+Key focus areas:
+- Passenger traffic trends
+- Seasonal travel patterns
+- Airport performance
+- International route analysis
